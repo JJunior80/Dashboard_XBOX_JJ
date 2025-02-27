@@ -89,4 +89,3 @@ Se este projeto te ajudou, **deixe uma estrela ⭐ no repositório!**
 
 ---
 
-Essa versão melhora a clareza, destaca os pontos fortes do projeto e ajuda outras pessoas a entenderem e reproduzirem o dashboard. Me avise se quiser ajustes! 🚀😃# Dashboard_XBOX_JJ
